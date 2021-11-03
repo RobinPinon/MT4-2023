@@ -19,6 +19,17 @@ def bin2dec(binary_list):
     return dec_value
 
 
+def dec2bin(dec_value):
+    binary_value = [dec_value & 1]
+    dec_value >>= 1
+
+    while dec_value > 0:
+        binary_value.insert(0, dec_value & 1)
+        dec_value >>= 1
+
+    return binary_value
+
+
 # --------------------------- Fonction Trivial ---------------------------
 def string2int_trivial(num_string):
     char_index = len(num_string) - 1
@@ -51,6 +62,8 @@ def bin2dec_trivial(binary_list):
 print(string2int('1982'))
 
 print(bin2dec([1, 0, 1, 1]))
+
+print(dec2bin(12))
 
 # --------------------------- Affichage trivial ---------------------------
 decimal_string = "1982"
