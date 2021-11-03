@@ -11,4 +11,4 @@ def one_bit_add(bit_a, bit_b, carry_in):
     return s, carry_out
 
 
-print(one_bit_add(1, 1, 1,))
+print(one_bit_add(1, 1, 1))
