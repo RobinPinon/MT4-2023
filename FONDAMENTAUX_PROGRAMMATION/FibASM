@@ -1,0 +1,17 @@
+
+
+    MOVE.L @N,R0        # N → R0
+    MOVE #0,R1          # Fn-1→ R1
+    MOVE #1,R2          # Fn→ R2
+BOUCLE :
+    CMP R2,R0           # Quand Fn >= N la boucle se termine.
+    BGE FIN_BOUCLE
+
+    MOVE R2,R3          # Fn→ Tmp
+    ADD R1,R2
+    MOVE R3,R1
+  
+    BRA BOUCLE
+FIN_BOUCLE :
+    MOVE.L R1,@RES
+
