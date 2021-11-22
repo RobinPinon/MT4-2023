@@ -1,0 +1,24 @@
+
+    MOVE @Npixel,R0
+    MOVE @RMax,R1
+    MOVE @PTR,A0
+
+    MOVE #0,R2
+BOUCLE :
+    CMP R2,R0
+    BEQ FIN_BOUCLE
+
+    MOVE.B (A0),R3
+SI :
+    CMP R1,R3
+    BLE FIN_SI
+
+    MOVE.B R1,(A0)
+FIN_SI :
+    ADD #3,A0
+
+    ADD #1,R2
+    BRA BOUCLE
+    
+FIN_BOUCLE :
+
