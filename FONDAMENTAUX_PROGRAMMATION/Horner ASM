@@ -1,0 +1,20 @@
+	    MOVE.L @ADR_STR,A0	
+	    MOVE.L #LEN_STR,R0	
+	    MOVE #0,R3	
+	    MOVE #0,R1	
+LOOP	CMP R0,R1	
+	    BEQ END_LOOP	
+      
+	    MOVE.B (A0),R2	
+	    SUB #48,R2	
+      
+	    MUL #10,R3	
+	    ADD R2,R3	
+
+	    ADD #1,A0	
+	    ADD #1,R1	
+	    BRA LOOP	
+		
+END_LOOP	
+      
+      MOVE.L R3, @DEC_VALUE	
