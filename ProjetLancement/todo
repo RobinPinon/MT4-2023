@@ -1,0 +1,3 @@
+•	Étape 1 : Un jeu complétement fonctionnel en procédural, multi-joueurs, en mode texte, avec l’ensembles des informations et des statistiques de l’exemple de log donnée. 
+•	Étape 2 : Un refactoring objet de la version précédente avec une réflexion sur le modèle objet 
+•	Étape 3 : Une version où le back en python interagît avec un front. La tech front est laissée au choix des équipes 
