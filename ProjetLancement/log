@@ -1,0 +1,300 @@
+turn #1--> Stéphane rank #1, score 0
+roll #1 : 2 scoring dices [(1, 1), (1, 5)] scoring 150, potential total turn score 150, remaining dice to roll : 3
+roll #2 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 250, remaining dice to roll : 2
+roll #3 : 0 scoring dices [] scoring 0, potential total turn score 0, remaining dice to roll : 0
+you lose this turn and a potential to score 250 pts
+
+total score : Stéphane--> 0 François--> 0 Romain--> 0 Laurent--> 0 Christophe--> 0 Isabelle--> 0 Sylvie--> 0  
+
+
+turn #1--> François rank #2, score 0
+roll #1 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 100, remaining dice to roll : 4
+roll #2 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 200, remaining dice to roll : 3
+you win this turn, scoring 200 pts
+
+total score : François--> 200 Stéphane--> 0 Romain--> 0 Laurent--> 0 Christophe--> 0 Isabelle--> 0 Sylvie--> 0  
+
+
+turn #1--> Romain rank #3, score 0
+roll #1 : 3 scoring dices [(3, 5)] scoring 500, potential total turn score 500, remaining dice to roll : 2
+you win this turn, scoring 500 pts
+
+total score : Romain--> 500 François--> 200 Stéphane--> 0 Laurent--> 0 Christophe--> 0 Isabelle--> 0 Sylvie--> 0  
+
+
+turn #1--> Laurent rank #4, score 0
+roll #1 : 2 scoring dices [(2, 5)] scoring 100, potential total turn score 100, remaining dice to roll : 3
+you win this turn, scoring 100 pts
+
+total score : Romain--> 500 François--> 200 Laurent--> 100 Stéphane--> 0 Christophe--> 0 Isabelle--> 0 Sylvie--> 0  
+
+
+turn #1--> Christophe rank #5, score 0
+roll #1 : 3 scoring dices [(1, 1), (2, 5)] scoring 200, potential total turn score 200, remaining dice to roll : 2
+you win this turn, scoring 200 pts
+
+total score : Romain--> 500 François--> 200 Christophe--> 200 Laurent--> 100 Stéphane--> 0 Isabelle--> 0 Sylvie--> 0  
+
+
+turn #1--> Isabelle rank #6, score 0
+roll #1 : 1 scoring dices [(1, 5)] scoring 50, potential total turn score 50, remaining dice to roll : 4
+roll #2 : 1 scoring dices [(1, 5)] scoring 50, potential total turn score 100, remaining dice to roll : 3
+you win this turn, scoring 100 pts
+
+total score : Romain--> 500 François--> 200 Christophe--> 200 Laurent--> 100 Isabelle--> 100 Stéphane--> 0 Sylvie--> 0  
+
+
+turn #1--> Sylvie rank #7, score 0
+roll #1 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 100, remaining dice to roll : 4
+roll #2 : 2 scoring dices [(2, 1)] scoring 200, potential total turn score 300, remaining dice to roll : 2
+roll #3 : 2 scoring dices [(2, 1)] scoring 200, potential total turn score 500, remaining dice to roll : 5
+you win this turn, scoring 500 pts
+
+total score : Romain--> 500 Sylvie--> 500 François--> 200 Christophe--> 200 Laurent--> 100 Isabelle--> 100 Stéphane--> 0  
+
+
+turn #2--> Stéphane rank #7, score 0
+roll #1 : 1 scoring dices [(1, 5)] scoring 50, potential total turn score 50, remaining dice to roll : 4
+roll #2 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 150, remaining dice to roll : 3
+you win this turn, scoring 150 pts
+
+total score : Romain--> 500 Sylvie--> 500 François--> 200 Christophe--> 200 Stéphane--> 150 Laurent--> 100 Isabelle--> 100  
+
+
+turn #2--> François rank #3, score 200
+roll #1 : 2 scoring dices [(1, 1), (1, 5)] scoring 150, potential total turn score 150, remaining dice to roll : 3
+roll #2 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 250, remaining dice to roll : 2
+roll #3 : 0 scoring dices [] scoring 0, potential total turn score 0, remaining dice to roll : 0
+you lose this turn and a potential to score 250 pts
+
+total score : Romain--> 500 Sylvie--> 500 François--> 200 Christophe--> 200 Stéphane--> 150 Laurent--> 100 Isabelle--> 100  
+
+
+turn #2--> Romain rank #1, score 500
+roll #1 : 2 scoring dices [(1, 1), (1, 5)] scoring 150, potential total turn score 150, remaining dice to roll : 3
+you win this turn, scoring 150 pts
+
+total score : Romain--> 650 Sylvie--> 500 François--> 200 Christophe--> 200 Stéphane--> 150 Laurent--> 100 Isabelle--> 100  
+
+
+turn #2--> Laurent rank #6, score 100
+roll #1 : 4 scoring dices [(1, 1), (3, 6)] scoring 700, potential total turn score 700, remaining dice to roll : 1
+you win this turn, scoring 700 pts
+
+total score : Laurent--> 800 Romain--> 650 Sylvie--> 500 François--> 200 Christophe--> 200 Stéphane--> 150 Isabelle--> 100  
+
+
+turn #2--> Christophe rank #5, score 200
+roll #1 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 100, remaining dice to roll : 4
+roll #2 : 4 scoring dices [(1, 1), (3, 6)] scoring 700, potential total turn score 800, remaining dice to roll : 5
+you win this turn, scoring 800 pts
+
+total score : Christophe--> 1000 Laurent--> 800 Romain--> 650 Sylvie--> 500 François--> 200 Stéphane--> 150 Isabelle--> 100  
+
+
+turn #2--> Isabelle rank #7, score 100
+roll #1 : 2 scoring dices [(1, 1), (1, 5)] scoring 150, potential total turn score 150, remaining dice to roll : 3
+roll #2 : 1 scoring dices [(1, 5)] scoring 50, potential total turn score 200, remaining dice to roll : 2
+you win this turn, scoring 200 pts
+
+total score : Christophe--> 1000 Laurent--> 800 Romain--> 650 Sylvie--> 500 Isabelle--> 300 François--> 200 Stéphane--> 150  
+
+
+turn #2--> Sylvie rank #4, score 500
+roll #1 : 3 scoring dices [(2, 1), (1, 5)] scoring 250, potential total turn score 250, remaining dice to roll : 2
+you win this turn, scoring 250 pts
+
+total score : Christophe--> 1000 Laurent--> 800 Sylvie--> 750 Romain--> 650 Isabelle--> 300 François--> 200 Stéphane--> 150  
+
+
+turn #3--> Stéphane rank #7, score 150
+roll #1 : 2 scoring dices [(1, 1), (1, 5)] scoring 150, potential total turn score 150, remaining dice to roll : 3
+roll #2 : 1 scoring dices [(1, 5)] scoring 50, potential total turn score 200, remaining dice to roll : 2
+you win this turn, scoring 200 pts
+
+total score : Christophe--> 1000 Laurent--> 800 Sylvie--> 750 Romain--> 650 Stéphane--> 350 Isabelle--> 300 François--> 200  
+
+
+turn #3--> François rank #7, score 200
+roll #1 : 2 scoring dices [(1, 1), (1, 5)] scoring 150, potential total turn score 150, remaining dice to roll : 3
+roll #2 : 0 scoring dices [] scoring 0, potential total turn score 0, remaining dice to roll : 0
+you lose this turn and a potential to score 150 pts
+
+total score : Christophe--> 1000 Laurent--> 800 Sylvie--> 750 Romain--> 650 Stéphane--> 350 Isabelle--> 300 François--> 200  
+
+
+turn #3--> Romain rank #4, score 650
+roll #1 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 100, remaining dice to roll : 4
+roll #2 : 1 scoring dices [(1, 5)] scoring 50, potential total turn score 150, remaining dice to roll : 3
+you win this turn, scoring 150 pts
+
+total score : Christophe--> 1000 Romain--> 800 Laurent--> 800 Sylvie--> 750 Stéphane--> 350 Isabelle--> 300 François--> 200  
+
+
+turn #3--> Laurent rank #3, score 800
+roll #1 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 100, remaining dice to roll : 4
+roll #2 : 1 scoring dices [(1, 5)] scoring 50, potential total turn score 150, remaining dice to roll : 3
+you win this turn, scoring 150 pts
+
+total score : Christophe--> 1000 Laurent--> 950 Romain--> 800 Sylvie--> 750 Stéphane--> 350 Isabelle--> 300 François--> 200  
+
+
+turn #3--> Christophe rank #1, score 1000
+roll #1 : 2 scoring dices [(2, 5)] scoring 100, potential total turn score 100, remaining dice to roll : 3
+you win this turn, scoring 100 pts
+
+total score : Christophe--> 1100 Laurent--> 950 Romain--> 800 Sylvie--> 750 Stéphane--> 350 Isabelle--> 300 François--> 200  
+
+
+turn #3--> Isabelle rank #6, score 300
+roll #1 : 2 scoring dices [(1, 1), (1, 5)] scoring 150, potential total turn score 150, remaining dice to roll : 3
+you win this turn, scoring 150 pts
+
+total score : Christophe--> 1100 Laurent--> 950 Romain--> 800 Sylvie--> 750 Isabelle--> 450 Stéphane--> 350 François--> 200  
+
+
+turn #3--> Sylvie rank #4, score 750
+roll #1 : 3 scoring dices [(2, 1), (1, 5)] scoring 250, potential total turn score 250, remaining dice to roll : 2
+roll #2 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 350, remaining dice to roll : 1
+roll #3 : 0 scoring dices [] scoring 0, potential total turn score 0, remaining dice to roll : 0
+you lose this turn and a potential to score 350 pts
+
+total score : Christophe--> 1100 Laurent--> 950 Romain--> 800 Sylvie--> 750 Isabelle--> 450 Stéphane--> 350 François--> 200  
+
+
+turn #4--> Stéphane rank #6, score 350
+roll #1 : 2 scoring dices [(1, 1), (1, 5)] scoring 150, potential total turn score 150, remaining dice to roll : 3
+you win this turn, scoring 150 pts
+
+total score : Christophe--> 1100 Laurent--> 950 Romain--> 800 Sylvie--> 750 Stéphane--> 500 Isabelle--> 450 François--> 200  
+
+
+turn #4--> François rank #7, score 200
+roll #1 : 2 scoring dices [(2, 5)] scoring 100, potential total turn score 100, remaining dice to roll : 3
+you win this turn, scoring 100 pts
+
+total score : Christophe--> 1100 Laurent--> 950 Romain--> 800 Sylvie--> 750 Stéphane--> 500 Isabelle--> 450 François--> 300  
+
+
+turn #4--> Romain rank #3, score 800
+roll #1 : 3 scoring dices [(2, 1), (1, 5)] scoring 250, potential total turn score 250, remaining dice to roll : 2
+you win this turn, scoring 250 pts
+
+total score : Christophe--> 1100 Romain--> 1050 Laurent--> 950 Sylvie--> 750 Stéphane--> 500 Isabelle--> 450 François--> 300  
+
+
+turn #4--> Laurent rank #3, score 950
+roll #1 : 4 scoring dices [(3, 3), (1, 5)] scoring 350, potential total turn score 350, remaining dice to roll : 1
+roll #2 : 0 scoring dices [] scoring 0, potential total turn score 0, remaining dice to roll : 0
+you lose this turn and a potential to score 350 pts
+
+total score : Christophe--> 1100 Romain--> 1050 Laurent--> 950 Sylvie--> 750 Stéphane--> 500 Isabelle--> 450 François--> 300  
+
+
+turn #4--> Christophe rank #1, score 1100
+roll #1 : 4 scoring dices [(1, 1), (3, 4)] scoring 500, potential total turn score 500, remaining dice to roll : 1
+you win this turn, scoring 500 pts
+
+total score : Christophe--> 1600 Romain--> 1050 Laurent--> 950 Sylvie--> 750 Stéphane--> 500 Isabelle--> 450 François--> 300  
+
+
+turn #4--> Isabelle rank #6, score 450
+roll #1 : 2 scoring dices [(1, 1), (1, 5)] scoring 150, potential total turn score 150, remaining dice to roll : 3
+roll #2 : 2 scoring dices [(1, 1), (1, 5)] scoring 150, potential total turn score 300, remaining dice to roll : 1
+you win this turn, scoring 300 pts
+
+total score : Christophe--> 1600 Romain--> 1050 Laurent--> 950 Isabelle--> 750 Sylvie--> 750 Stéphane--> 500 François--> 300  
+
+
+turn #4--> Sylvie rank #5, score 750
+roll #1 : 2 scoring dices [(1, 1), (1, 5)] scoring 150, potential total turn score 150, remaining dice to roll : 3
+roll #2 : 1 scoring dices [(1, 5)] scoring 50, potential total turn score 200, remaining dice to roll : 2
+you win this turn, scoring 200 pts
+
+total score : Christophe--> 1600 Romain--> 1050 Laurent--> 950 Sylvie--> 950 Isabelle--> 750 Stéphane--> 500 François--> 300  
+
+
+turn #5--> Stéphane rank #6, score 500
+roll #1 : 2 scoring dices [(1, 1), (1, 5)] scoring 150, potential total turn score 150, remaining dice to roll : 3
+roll #2 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 250, remaining dice to roll : 2
+you win this turn, scoring 250 pts
+
+total score : Christophe--> 1600 Romain--> 1050 Laurent--> 950 Sylvie--> 950 Stéphane--> 750 Isabelle--> 750 François--> 300  
+
+
+turn #5--> François rank #7, score 300
+roll #1 : 3 scoring dices [(3, 1)] scoring 1000, potential total turn score 1000, remaining dice to roll : 2
+roll #2 : 2 scoring dices [(1, 1), (1, 5)] scoring 150, potential total turn score 1150, remaining dice to roll : 5
+roll #3 : 3 scoring dices [(3, 2)] scoring 200, potential total turn score 1350, remaining dice to roll : 2
+you win this turn, scoring 1350 pts
+
+total score : François--> 1650 Christophe--> 1600 Romain--> 1050 Laurent--> 950 Sylvie--> 950 Stéphane--> 750 Isabelle--> 750  
+
+
+turn #5--> Romain rank #3, score 1050
+roll #1 : 1 scoring dices [(1, 5)] scoring 50, potential total turn score 50, remaining dice to roll : 4
+you win this turn, scoring 50 pts
+
+total score : François--> 1650 Christophe--> 1600 Romain--> 1100 Laurent--> 950 Sylvie--> 950 Stéphane--> 750 Isabelle--> 750  
+
+
+turn #5--> Laurent rank #4, score 950
+roll #1 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 100, remaining dice to roll : 4
+roll #2 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 200, remaining dice to roll : 3
+roll #3 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 300, remaining dice to roll : 2
+you win this turn, scoring 300 pts
+
+total score : François--> 1650 Christophe--> 1600 Laurent--> 1250 Romain--> 1100 Sylvie--> 950 Stéphane--> 750 Isabelle--> 750  
+
+
+turn #5--> Christophe rank #2, score 1600
+roll #1 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 100, remaining dice to roll : 4
+roll #2 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 200, remaining dice to roll : 3
+you win this turn, scoring 200 pts
+
+total score : Christophe--> 1800 François--> 1650 Laurent--> 1250 Romain--> 1100 Sylvie--> 950 Stéphane--> 750 Isabelle--> 750  
+
+
+turn #5--> Isabelle rank #7, score 750
+roll #1 : 2 scoring dices [(1, 1), (1, 5)] scoring 150, potential total turn score 150, remaining dice to roll : 3
+you win this turn, scoring 150 pts
+
+total score : Christophe--> 1800 François--> 1650 Laurent--> 1250 Romain--> 1100 Sylvie--> 950 Isabelle--> 900 Stéphane--> 750  
+
+
+turn #5--> Sylvie rank #5, score 950
+roll #1 : 2 scoring dices [(1, 1), (1, 5)] scoring 150, potential total turn score 150, remaining dice to roll : 3
+roll #2 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 250, remaining dice to roll : 2
+roll #3 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 350, remaining dice to roll : 1
+you win this turn, scoring 350 pts
+
+total score : Christophe--> 1800 François--> 1650 Sylvie--> 1300 Laurent--> 1250 Romain--> 1100 Isabelle--> 900 Stéphane--> 750  
+
+
+turn #6--> Stéphane rank #7, score 750
+roll #1 : 1 scoring dices [(1, 1)] scoring 100, potential total turn score 100, remaining dice to roll : 4
+you win this turn, scoring 100 pts
+
+total score : Christophe--> 1800 François--> 1650 Sylvie--> 1300 Laurent--> 1250 Romain--> 1100 Isabelle--> 900 Stéphane--> 850  
+
+
+turn #6--> François rank #2, score 1650
+roll #1 : 3 scoring dices [(3, 5)] scoring 500, potential total turn score 500, remaining dice to roll : 2
+
+total score : François--> 2150 Christophe--> 1800 Sylvie--> 1300 Laurent--> 1250 Romain--> 1100 Isabelle--> 900 Stéphane--> 850  
+
+Game in 6 turns
+François win !  scoring 2150 in 12 roll with 1 full roll, 3 bonus and 400 potential points lost
+Christophe lose !  scoring 1800 in 7 roll with 1 full roll, 2 bonus and 0 potential points lost
+Sylvie lose !  scoring 1300 in 12 roll with 1 full roll, 0 bonus and 350 potential points lost
+Laurent lose !  scoring 1250 in 9 roll with 0 full roll, 2 bonus and 350 potential points lost
+Romain lose !  scoring 1100 in 6 roll with 0 full roll, 1 bonus and 0 potential points lost
+Isabelle lose !  scoring 900 in 8 roll with 0 full roll, 0 bonus and 0 potential points lost
+Stéphane lose !  scoring 850 in 11 roll with 0 full roll, 0 bonus and 250 potential points lost
+
+Max turn scoring : François with 1350
+Longest turn : Sylvie with 3 roll
+Max turn loss : Sylvie with 350
+
+Mean scoring turn : 292.19 (32 turns)
+Mean non scoring turn : 270.00 (5 turns)
