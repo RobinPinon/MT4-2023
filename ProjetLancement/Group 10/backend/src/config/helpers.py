@@ -1,7 +1,7 @@
 import random
 import re
 
-from constants import (
+from .constants import (
     NB_DICE_SIDE,
     TRIGGER_OCCURRENCE_FOR_BONUS,
     BONUS_VALUE_FOR_ACE_BONUS,
